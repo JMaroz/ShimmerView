@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ShimmerView">
+        <attr name="sv_background_color" format="color" />
+        <attr name="sv_shape_color" format="color" />
+        <attr name="sv_shape_square_corner" format="dimension" />
+        <attr name="sv_shape_type" format="enum">
+            <enum name="square" value="0" />
+            <enum name="oval" value="1" />
+        </attr>
+    </declare-styleable>
+
+</resources>

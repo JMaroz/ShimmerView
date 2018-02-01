@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context=".MainActivity">
+
+    <com.marozzi.shimmerview.ShimmerView
+        android:layout_width="150dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="18dp"
+        app:sv_shape_square_corner="2dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+
+        <com.marozzi.shimmerview.ShimmerView
+            android:id="@+id/icon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            app:sv_shape_square_corner="6dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/icon"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/icon"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.marozzi.shimmerview.ShimmerView
+        android:layout_width="150dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="18dp"
+        app:sv_shape_square_corner="2dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+
+        <com.marozzi.shimmerview.ShimmerView
+            android:id="@+id/icon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            app:sv_shape_square_corner="6dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/icon"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/icon"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.marozzi.shimmerview.ShimmerView
+        android:layout_width="150dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="18dp"
+        app:sv_shape_square_corner="2dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+
+        <com.marozzi.shimmerview.ShimmerView
+            android:id="@+id/icon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            app:sv_shape_square_corner="6dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/icon"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/icon"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.marozzi.shimmerview.ShimmerView
+        android:layout_width="150dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="18dp"
+        app:sv_shape_square_corner="2dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+
+        <com.marozzi.shimmerview.ShimmerView
+            android:id="@+id/icon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            app:sv_shape_square_corner="6dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/icon"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/icon"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+
+            <com.marozzi.shimmerview.ShimmerView
+                android:layout_width="150dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="4dp"
+                app:sv_shape_square_corner="2dp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>
