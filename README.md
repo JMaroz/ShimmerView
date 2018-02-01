@@ -6,7 +6,7 @@ Simple shimmer view for highlight loading
 
 ## Installation
 
-[ ![Download](https://api.bintray.com/packages/maro/maven/RoundButton/images/download.svg) ](https://bintray.com/maro/maven/ShimmerView/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/maro/maven/ShimmerView/images/download.svg) ](https://bintray.com/maro/maven/ShimmerView/_latestVersion)
 
     compile 'com.marozzi.shimmerview:shimmerview:1.0.0'
 
